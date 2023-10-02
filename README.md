@@ -10,7 +10,7 @@
 - ⌨️ Languages: <br>
   HTML , PHP , CSS , C++ , JAVASCRIPT , JAVA , MYSQL
    <br>
-- Tools: <br>
+- 💡Tools: <br>
 VISUAL STUDIO , ADOBE PHOTOSHOP , FILMORA , WORDPRESS 
 <!---
 John-Kazlarakis/John-Kazlarakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
