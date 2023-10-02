@@ -2,9 +2,10 @@
 - 👀 I’m interested in Software Engineering , Webpage design , Webpage Development.
 - 🌱 I’m currently learning How to integrate into Software engineer and Wabpage developement,design industry
 - 📫 How to reach me johnkazlarakis@gmail.com
-- 
+  
 -Where to find me
-https://github.com/John-Kazlarakis https://www.linkedin.com/in/john-kazlarakis/
+https://github.com/John-Kazlarakis
+https://www.linkedin.com/in/john-kazlarakis/
 
 -Languages
 HTML , PHP , C++ , JAVA , JAVASCRIPT , MYSQL , CSS
