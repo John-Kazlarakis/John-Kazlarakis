@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning How to integrate into Software engineer and Wabpage developement,design industry
 - 📫 How to reach me johnkazlarakis@gmail.com
   
-- Where to find me ![Alt text](relative%20path/to/img.jpg?raw=true "Title")
- [GitHub](https://github.com/John-Kazlarakis) , [linkedin](https://www.linkedin.com/in/john-kazlarakis/)
+- Where to find me [GitHub](https://github.com/John-Kazlarakis) , [linkedin](https://www.linkedin.com/in/john-kazlarakis/)
   <br>
 - Languages
  HTML , PHP , C++ , JAVA , JAVASCRIPT , MYSQL , CSS
