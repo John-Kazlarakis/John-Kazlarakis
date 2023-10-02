@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/john-kazlarakis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - ⌨️ Languages: <br>
-  HTML , PHP , CSS , C++ , JAVASCRIPT , MYSQL
+  HTML , PHP , CSS , MYSQL , JAVASCRIPT , C++ 
    <br>
 - 💡Tools: <br>
   WORDPRESS , BRACKETS , ADOBE PHOTOSHOP , FILMORA 
