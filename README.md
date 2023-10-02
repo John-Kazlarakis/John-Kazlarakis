@@ -11,7 +11,7 @@
   HTML , PHP , CSS , MYSQL , JAVASCRIPT , C++ 
    <br>
 - 💡Tools: <br>
-  WORDPRESS , BRACKETS , ADOBE PHOTOSHOP , FILMORA 
+  WORDPRESS , BRACKETS , ADOBE PHOTOSHOP , FILMORA , NETBEANS
 <!---
 John-Kazlarakis/John-Kazlarakis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
