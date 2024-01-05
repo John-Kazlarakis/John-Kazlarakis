@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [John](https://github.com/John-Kazlarakis) 🔗
-- 👀 I’m interested in Software Engineering , Webpage design , Webpage Development.
+- 👀 I’m interested in Software Engineering , Tecnhical Support , Webpage design , Webpage Development.
 - 🌱 I’m currently learning How to integrate into Software engineer and Wabpage developement,design industry
 - 📫 How to reach me johnkazlarakis@gmail.com 📧
   
